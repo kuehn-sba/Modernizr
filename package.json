@@ -102,8 +102,15 @@
     "README.md",
     "bin/",
     "feature-detects/",
+    "legacy/",
     "lib/",
-    "src/"
+    "media/",
+    "scripts/",
+    "src/",
+    "test/",
+    ".babelrc",
+    ".eslintrc",
+    "*.js"
   ],
   "keywords": [
     "modernizr",
