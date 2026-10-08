@@ -11,7 +11,7 @@ import Mocha            from 'mocha';
 import Mochaheadless    from 'mocha-headless-chrome';
 
 import modernizr        from './lib/cli';
-import config           from './lib/config-all';
+import config           from './lib/config-webster';
 
 const directories = {
   browserTests: globby.sync([
